@@ -1,3 +1,4 @@
 # ThinkPHPScan
 TPScan是一款Burpsuite被动扫描插件，用于对ThinkPhp框架进行漏洞探测
+
 目前支持TP5ControllerRCE,TP5MethodRCE进行被动扫描探测
